@@ -1,0 +1,9 @@
+﻿Launch Visual Studio 2022 and open the solution.
+Build the solution by selecting "Build" from the menu or using the keyboard shortcut (usually Ctrl + Shift + B).
+Run the solution by pressing F5 or selecting "Start Debugging" from the menu.
+Instructions for operating the robot:
+
+To place the toy robot on the table, use the command PLACE Row,Cell,Direction, where Row and Cell are the coordinates, and Direction is the (NORTH, SOUTH, EAST, or WEST).
+Use the command MOVE to move the toy robot one unit forward in its current direction.
+Rotate the robot 90 degrees to the left or right using the commands LEFT or RIGHT, respectively. This rotation does not change the robot's position.
+Obtain information about the robot's position and direction with the REPORT command, which outputs the X, Y, and F values. Standard output is sufficient for displaying this information.
