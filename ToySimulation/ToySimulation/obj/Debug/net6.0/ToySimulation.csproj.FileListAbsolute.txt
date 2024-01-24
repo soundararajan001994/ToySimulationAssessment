@@ -1,0 +1,15 @@
+D:\site\ToySimulation\ToySimulation\bin\Debug\net6.0\ToySimulation.exe
+D:\site\ToySimulation\ToySimulation\bin\Debug\net6.0\ToySimulation.deps.json
+D:\site\ToySimulation\ToySimulation\bin\Debug\net6.0\ToySimulation.runtimeconfig.json
+D:\site\ToySimulation\ToySimulation\bin\Debug\net6.0\ToySimulation.dll
+D:\site\ToySimulation\ToySimulation\bin\Debug\net6.0\ToySimulation.pdb
+D:\site\ToySimulation\ToySimulation\obj\Debug\net6.0\ToySimulation.csproj.AssemblyReference.cache
+D:\site\ToySimulation\ToySimulation\obj\Debug\net6.0\ToySimulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\site\ToySimulation\ToySimulation\obj\Debug\net6.0\ToySimulation.AssemblyInfoInputs.cache
+D:\site\ToySimulation\ToySimulation\obj\Debug\net6.0\ToySimulation.AssemblyInfo.cs
+D:\site\ToySimulation\ToySimulation\obj\Debug\net6.0\ToySimulation.csproj.CoreCompileInputs.cache
+D:\site\ToySimulation\ToySimulation\obj\Debug\net6.0\ToySimulation.dll
+D:\site\ToySimulation\ToySimulation\obj\Debug\net6.0\refint\ToySimulation.dll
+D:\site\ToySimulation\ToySimulation\obj\Debug\net6.0\ToySimulation.pdb
+D:\site\ToySimulation\ToySimulation\obj\Debug\net6.0\ToySimulation.genruntimeconfig.cache
+D:\site\ToySimulation\ToySimulation\obj\Debug\net6.0\ref\ToySimulation.dll
